@@ -6,8 +6,8 @@ Dynamic grid layout with multitouch for mobile application design and prototypin
 
 Video example https://vimeo.com/122756950
 
+![screenshot](https://raw.githubusercontent.com/jonathanhammond/multiTouchOrigami/master/screengrabs/gridscreen.jpg)
 ![screenshot](https://raw.githubusercontent.com/jonathanhammond/multiTouchOrigami/master/screengrabs/live.jpg)
-
 
 
 Built using Origami for Quartz Composer (https://github.com/facebook/origami)
